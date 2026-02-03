@@ -1,5 +1,5 @@
 👋 Hi, I'm Ogechika!
-🎓 Junior at CUNY Hunter College, studying Computer Science
+🎓 Senior at CUNY Hunter College, studying Computer Science
 🔭 Data Science and CyberSecurity Enthusiast
 
 --
@@ -15,15 +15,15 @@ I’m passionate about continuous learning—whether it’s through hands-on int
 
 
 🎯 Featured Project: 
-//  PENDING //
+Recently developed a supervised machine learning system to improve the safety, reliability, and user trust of Planned Parenthood’s sexual and reproductive health chatbot (Roo). The project focused on evaluating chatbot responses, reducing misclassification risk, and identifying when human intervention could improve outcomes for users seeking sensitive health information.
 
  
 
 🛠 Tech Stack:
 Languages: Python, C++, RISC-V Assembly Language
-Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+Data Science: Pandas, NumPy, scikit-learn, 
 Tools: Jupyter Notebooks, Git, GitHub, Excel, PowerPoint
-Databases: SQL, MySQL
+Databases: SQL
 
 
 
