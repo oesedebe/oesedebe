@@ -1,5 +1,5 @@
 👋 Hi, I'm Ogechika!
-🎓 Senior at CUNY Hunter College, studying Computer Science
+🎓 Student at CUNY Hunter College, studying Computer Science
 🔭 Data Science and CyberSecurity Enthusiast
 
 --
